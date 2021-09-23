@@ -4,3 +4,4 @@
 # 也同时欢迎无忧启动论坛，IT天空等论坛的坛友参与这个计划
 # 您可以向微软举报这个系统：https://www.microsoft.com/zh-cn/howtotell/cfr/report.aspx 或向有关部门举报，共同打击MenheraOS！
 # 本项目的官网：https://antimenheraos.mysxl.cn
+# 注：本项目不针对七濑胡桃官方
